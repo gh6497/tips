@@ -25,4 +25,6 @@ public class User {
     private Long createdTime;
 
     private LocalDateTime localDateTime;
+
+    private String location;
 }
