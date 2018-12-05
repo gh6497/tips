@@ -6,4 +6,10 @@ package cn.len.spring.tips.config;
  */
 //@Configuration
 public class SecurityConfig {
+
+
+
+
+
+    private String name;
 }
