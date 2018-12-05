@@ -27,4 +27,6 @@ public class User {
     private LocalDateTime localDateTime;
 
     private String location;
+
+
 }
